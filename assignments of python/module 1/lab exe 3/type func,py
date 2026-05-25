@@ -1,0 +1,18 @@
+a=123121 #this is a comment #integer
+b=123.123 #float
+c='h' #character
+d="hello"   #string
+e=True #boolean
+
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+''' type function is used to find the data type of a variable
+ and it will return the data type of the variable in the form of a class'''
+print(type(a))
+print(type(b))
+print(type(c))  
+print(type(d))
+print(type(e))

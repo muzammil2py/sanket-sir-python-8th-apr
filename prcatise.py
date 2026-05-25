@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+age = input("Enter your age:")
+dob = input("Enter your dob:")
+mobile = input("Enter your mobile:")
+print(F"my name is {name},my age is{age},my dob is{dob},my mobile is{mobile}.")
